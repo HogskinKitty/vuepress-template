@@ -14,7 +14,7 @@ bgImage: /bg.svg
 # 按钮
 actions:
   - text: GitHub
-    link: https://github.com/HogskinKitty/cultivate-java
+    link: https://github.com/HogskinKitty/vuepress-template
     icon: github
     type: primary
 
@@ -24,18 +24,18 @@ actions:
     type: primary
 
 features:
-  - title:
+  - title: feature 1
     icon:
-    details:
+    details: This is feature detail
     link:
 
-  - title:
+  - title: feature 2
     icon:
-    details:
+    details: This is feature detail
     link:
 
-  - title:
+  - title: feature 3
     icon:
-    details:
+    details: This is feature detail
     link: 
 ---

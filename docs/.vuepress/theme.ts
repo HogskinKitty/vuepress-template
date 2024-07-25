@@ -11,7 +11,7 @@ export default hopeTheme({
     // favicon
     favicon: "/favicon.ico",
     // Git 仓库和编辑链接
-    repo: "/HogskinKitty/cultivate-java",
+    repo: "/HogskinKitty/vuepress-template",
     repoLabel: "GitHub",
     docsDir: "docs",
     // 仓库分支名
