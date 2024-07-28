@@ -16,7 +16,7 @@ actions:
   - text: GitHub
     link: https://github.com/HogskinKitty/vuepress-template
     icon: github
-    type: primary
+    type: 
 
   - text: 快速开始
     link: /guide/

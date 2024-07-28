@@ -5,8 +5,10 @@ import theme from "./theme";
 export default defineUserConfig({
     // 打包方式
     bundler: viteBundler(),
+
     // 主题
     theme,
+
     // 多语言配置
     locales: {
         "/": {
